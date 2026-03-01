@@ -1,16 +1,18 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2+cpu
+
 fastapi
 uvicorn
 pydantic
 requests
 beautifulsoup4
 lxml
-pandas
 numpy
 faiss-cpu
 sentence-transformers
 scikit-learn
-streamlit
+pandas
 python-dotenv
+rank-bm25
 openpyxl
 tqdm
-rank-bm25
