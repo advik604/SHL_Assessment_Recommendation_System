@@ -16,3 +16,4 @@ python-dotenv
 rank-bm25
 openpyxl
 tqdm
+streamlit
